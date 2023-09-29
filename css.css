@@ -1,0 +1,86 @@
+body{
+    font-size: 20px;
+}
+
+h2{
+    border-bottom: 10cm;
+    border-color: gray;
+}
+
+button{
+    font-size: 18px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+
+p a{
+    color: black;
+    font-weight: bold;
+    font-style: normal;
+}
+
+#alunos{
+        display: block;
+        font-style: normal;
+}
+
+.formacao{
+    float: left;
+    margin-right: 10px;
+}
+.titulo{
+    font-weight: bold;
+    color: black;
+    font-style: normal;
+}
+
+p{
+    color: gray;
+    font-style: italic;
+    margin-left: 5px;
+    margin: 2px;
+}
+
+h2{
+    border-bottom: 2px solid;
+    border-color: gray;
+    padding-bottom: 5px;
+}
+
+th{
+    border: solid;
+    border-color: lightgray;
+    background-color: lightgray;
+}
+
+td{
+    border: solid;
+    border-color: lightgray;
+}
+
+label{
+    font-weight: bold;
+}
+
+input, textarea{
+    margin-bottom: 10px;
+}
+
+input{
+    width: 16rem;
+}
+
+textarea{
+    width: 16rem;
+    height: 10rem;
+}
+
+a img:hover{
+    filter: blur(1px);
+}
+
+button:hover{
+    background-color: white;
+    color: black;
+}
